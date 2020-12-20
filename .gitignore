@@ -2,3 +2,7 @@ Library/
 Logs/
 Temp/
 UserSettings/
+.vs/
+Assembly-CSharp.csproj
+IKDemo.sln
+obj/
